@@ -4,4 +4,4 @@ this is my sample sentence
 everything alright
 okay 
 this is my R assignment 5 
-okay
+the deadline for this is on 5th Dec
